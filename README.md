@@ -8,3 +8,5 @@
 - [微信云托管对象存储管理](https://github.com/jvxiao/kebei-blogs/issues/3)
 
 - [JS中两种原型链继承方式的区别](https://github.com/jvxiao/kebei-blogs/issues/4)
+
+- [Vite proxy error ECONNREFUSED](./docs/Vite-server-error.md)
